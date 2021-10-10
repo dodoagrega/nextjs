@@ -13,6 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Olá estou alterando o codigo pronto da vercel <a href="https://nextjs.org">Next.js!</a>
         </h1>
+        <h2>versao 2.0</h2>
      </main>
     </div>
   )
